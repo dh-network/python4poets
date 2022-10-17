@@ -1,4 +1,3 @@
-![netzwerk_logo_larger.png](netzwerk_logo_larger.png)
 # Python🐍 for Poets📚
 
 Are you ready to explore a new language? Learn to use **basic Python** and **Python for text processing** in 4 sessions. Just like with any other language, coding helps you create something that has not been there before. And the best part is: you can use it to handle and **process textual data** for **your own research** more efficiently. 
@@ -55,3 +54,5 @@ If you are interested, please [register](https://moodle2.uni-potsdam.de/course/v
 ## Disclaimer 
 
 The name 'Python for Poets' is a tribute to the (old but gold) '[Unix for Poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf)' tutorial. We will not actually use Python for poetic purposes or verse studies during our course (although you will be able to do it yourself after the course, if you wish). The name Python for Poets is only there to highlight the 'humanistic flavour' of the course. 
+
+![netzwerk_logo_larger.png](netzwerk_logo_larger.png)
