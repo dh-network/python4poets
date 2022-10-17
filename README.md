@@ -1,4 +1,4 @@
-![transparent netzwerk big.png](transparent netzwerk big.png)
+![netzwerk_logo_larger.png](netzwerk_logo_larger.png)
 # Python🐍 for Poets📚
 
 Are you ready to explore a new language? Learn to use **basic Python** and **Python for text processing** in 4 sessions. Just like with any other language, coding helps you create something that has not been there before. And the best part is: you can use it to handle and **process textual data** for **your own research** more efficiently. 
