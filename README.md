@@ -4,7 +4,7 @@ Are you ready to explore a new language? Learn to use **basic Python** and **Pyt
 
 The course will start on the **3rd of November** and will take place **every two weeks** from **4:00pm to 6:00pm** (s.t).
 
-📝 Register [here](https://moodle2.uni-potsdam.de/course/view.php?id=3468) until 🔜 October 21. This is a Moodle.UP link which requires registration with your Uni Potsdam account)
+📝 Register [here](https://moodle2.uni-potsdam.de/course/view.php?id=34686) until 🔜 October 21. This is a Moodle.UP link which requires registration with your Uni Potsdam account)
 
 ## Course outline:
 
@@ -41,7 +41,7 @@ No technical skills required. We will assume zero previous experience with Pytho
 
 The course will take place at Campus Neues Palais, room **1.08.0.59**
 
-If you are interested, please [register](https://moodle2.uni-potsdam.de/course/view.php?id=3468) until October 21. We’ll be happy to see you at the course!
+If you are interested, please [register](https://moodle2.uni-potsdam.de/course/view.php?id=34686) until October 21. We’ll be happy to see you at the course!
 
 ## Organizers
 
