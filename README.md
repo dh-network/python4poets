@@ -4,11 +4,11 @@ Are you ready to explore a new language? Learn to use **basic Python** and **Pyt
 
 The course will start on the **3rd of November** and will take place **every two weeks** from **4:00pm to 6:00pm** (s.t).
 
-📝 Register [here](https://moodle2.uni-potsdam.de/course/view.php?id=34686) until 🔜 October 21. This is a Moodle.UP link which requires registration with your Uni Potsdam account)
-
 ## Course outline:
 
 ### 03.11.22:
+
+🆕 Slides [here](https://docs.google.com/presentation/d/1Snl7SSZqEDokU-eFD1vrR73pQC2dS8709B2Z1xaIDKw/edit?usp=sharing)
 
 * Introduction to Programming
 * Python Interpreter & built-in IDE (IDLE)
