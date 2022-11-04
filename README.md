@@ -8,7 +8,8 @@ The course will start on the **3rd of November** and will take place **every two
 
 ### 03.11.22:
 
-🆕 Slides [here](https://docs.google.com/presentation/d/1Snl7SSZqEDokU-eFD1vrR73pQC2dS8709B2Z1xaIDKw/edit?usp=sharing)
+🆕 [Slides](https://docs.google.com/presentation/d/1Snl7SSZqEDokU-eFD1vrR73pQC2dS8709B2Z1xaIDKw/edit?usp=sharing)
+🆕 [Introductory Colab Notebook](https://colab.research.google.com/drive/1FUSgW5i2s95KP_bMBObZQdSuQFRpP7QF?usp=sharing#scrollTo=5fCEDCU_qrC0)
 
 * Introduction to Programming
 * Python Interpreter & built-in IDE (IDLE)
