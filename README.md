@@ -40,7 +40,7 @@ No technical skills required. We will assume zero previous experience with Pytho
 
 ## Location:
 
-The course will take place at Campus Neues Palais, room **1.08.0.59**
+The course will take place at Campus Neues Palais, room **1.09.2.06**
 
 If you are interested, please [register](https://moodle2.uni-potsdam.de/course/view.php?id=34686) until October 21. We’ll be happy to see you at the course!
 
