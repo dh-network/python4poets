@@ -8,8 +8,8 @@ The course will start on the **3rd of November** and will take place **every two
 
 ### 03.11.22:
 
-🆕 [Slides](https://docs.google.com/presentation/d/1Snl7SSZqEDokU-eFD1vrR73pQC2dS8709B2Z1xaIDKw/edit?usp=sharing)
-🆕 [Introductory Colab Notebook](https://colab.research.google.com/drive/1FUSgW5i2s95KP_bMBObZQdSuQFRpP7QF?usp=sharing#scrollTo=5fCEDCU_qrC0)
+[Slides](https://docs.google.com/presentation/d/1Snl7SSZqEDokU-eFD1vrR73pQC2dS8709B2Z1xaIDKw/edit?usp=sharing)
+[Introductory Colab Notebook](https://colab.research.google.com/drive/1FUSgW5i2s95KP_bMBObZQdSuQFRpP7QF?usp=sharing#scrollTo=5fCEDCU_qrC0)
 
 * Introduction to Programming
 * Python Interpreter & built-in IDE (IDLE)
@@ -17,6 +17,9 @@ The course will start on the **3rd of November** and will take place **every two
 * Python in Google Colab
 
 ### 17.11.22
+
+🆕 [2nd session Colab Notebook](https://colab.research.google.com/drive/1kT2D5Wv9gJFlswL_Jrgfse6TduOsohDu#scrollTo=6596eba5)
+🆕 [Cheat sheet](https://gitup.uni-potsdam.de/sluytergaeth/python-mini-course/-/raw/session-2/cheatsheet2-fs.pdf?inline=false)
 
 * Loops
 * Conditional Statements
