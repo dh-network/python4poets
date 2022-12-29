@@ -27,10 +27,11 @@ The course will start on the **3rd of November** and will take place **every two
 
 ### 01.12.22
 
-🆕 [3rd session Colab Notebook](https://colab.research.google.com/drive/1nToyja4cJg2mGQPqrKNtRuO2NDjHYQQB?usp=sharing)
-🆕 [Cheat sheet](cheatsheet3.pdf)
-🆕 [3rd session Jupyter Notebook and Solutions - Zip-Bundle]
-🆕 [corpus](corpus.zip)
+- 🆕 [3rd session Colab Notebook](https://colab.research.google.com/drive/1nToyja4cJg2mGQPqrKNtRuO2NDjHYQQB?usp=sharing)
+- 🆕 [Cheat sheet](cheatsheet3.pdf)
+- 🆕 [3rd session Jupyter Notebook and Solutions - Zip-Bundle](notebook.zip)
+- 🆕 [corpus](corpus.zip)
+
 * Text Lemmatisation
 * POS-Tagging
 * Reading and Writing Files
