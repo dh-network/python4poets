@@ -51,7 +51,7 @@ The course will start on the **3rd of November** and will take place **every two
 * Data Visualisation
 
 #### Materials:
-- 🆕 [4rth session Colab Notebook](https://colab.research.google.com/drive/1nToyja4cJg2mGQPqrKNtRuO2NDjHYQQB?usp=sharing)
+- 🆕 [4rth session Colab Notebook](https://colab.research.google.com/drive/1SQ0jlNRfCS0Zld5XxbHTNjIHsKtIB3Rf#scrollTo=pxDpGPSWN7K6)
 - 🆕 [Cheat sheet](https://gitup.uni-potsdam.de/sluytergaeth/python-mini-course/-/blob/session-4/session-4/cheatsheet4.pdf)
 - 🆕 [corpus](corpus.zip)
 - 🆕 [Cornell Movies Data](moviesdata.zip)
