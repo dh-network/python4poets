@@ -18,8 +18,8 @@ The course will start on the **3rd of November** and will take place **every two
 
 ### 17.11.22
 
-🆕 [2nd session Colab Notebook](https://colab.research.google.com/drive/1kT2D5Wv9gJFlswL_Jrgfse6TduOsohDu#scrollTo=6596eba5)
-🆕 [Cheat sheet](https://gitup.uni-potsdam.de/sluytergaeth/python-mini-course/-/raw/session-2/cheatsheet2-fs.pdf?inline=false)
+[2nd session Colab Notebook](https://colab.research.google.com/drive/1kT2D5Wv9gJFlswL_Jrgfse6TduOsohDu#scrollTo=6596eba5)
+[Cheat sheet](https://gitup.uni-potsdam.de/sluytergaeth/python-mini-course/-/raw/session-2/cheatsheet2-fs.pdf?inline=false)
 
 * Loops
 * Conditional Statements
@@ -27,6 +27,10 @@ The course will start on the **3rd of November** and will take place **every two
 
 ### 01.12.22
 
+🆕 [3rd session Colab Notebook](https://colab.research.google.com/drive/1nToyja4cJg2mGQPqrKNtRuO2NDjHYQQB?usp=sharing)
+🆕 [Cheat sheet](cheatsheet3.pdf)
+🆕 [3rd session Jupyter Notebook and Solutions - Zip-Bundle]
+🆕 [corpus](corpus.zip)
 * Text Lemmatisation
 * POS-Tagging
 * Reading and Writing Files
