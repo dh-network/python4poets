@@ -1,4 +1,31 @@
-# Python🐍 for Poets📚
+# Python🐍 for Poets📚 2023
+
+Are you ready to explore a new language? Learn to use **basic Python** and **Python for text processing** in 2 days. Just like with any other language, coding helps you create something that has not been there before. And the best part is: you can use it to handle and **process textual data** for **your own research** more efficiently. 
+
+## Course requirements:
+
+No technical skills required. We will assume zero previous experience with Python. The course is specifically intended to introduce programming to researchers involved with the arts and humanities. The course will be in English for more inclusion of both students and teachers. But we will use both German and English texts for processing. Our methods are also easily transferable to Slavic, Semitic and many other languages.
+
+## Location:
+
+The course will take place at Campus Neues Palais, room **1.04.2.06**
+
+If you are interested, please [register](https://moodle2.uni-potsdam.de/course/view.php?id=38478) until October 23. We’ll be happy to see you at the course!
+
+## Organizers
+
+* Henny Sluyter-Gäthje (Department of German Studies UP, Digital Humanities Network UP)
+* Friederike Schulz (Department of Romance Studies UP)
+* Daniil Skorinkin (Digital Humanities Network UP)
+
+## Disclaimer 
+
+The name 'Python for Poets' is a tribute to the (old but gold) '[Unix for Poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf)' tutorial. We will not actually use Python for poetic purposes or verse studies during our course (although you will be able to do it yourself after the course, if you wish). The name Python for Poets is only there to highlight the 'humanistic flavour' of the course. 
+
+![netzwerk_logo_larger.png](netzwerk_logo_larger.png)
+
+
+# Python🐍 for Poets📚 2022 (Archive)
 
 Are you ready to explore a new language? Learn to use **basic Python** and **Python for text processing** in 4 sessions. Just like with any other language, coding helps you create something that has not been there before. And the best part is: you can use it to handle and **process textual data** for **your own research** more efficiently. 
 
