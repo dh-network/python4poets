@@ -25,7 +25,9 @@ The name 'Python for Poets' is a tribute to the (old but gold) '[Unix for Poets]
 ![netzwerk_logo_larger.png](netzwerk_logo_larger.png)
 
 
-# Python🐍 for Poets📚 2022 (Archive)
+# The End
+
+# (Archive) Python🐍 for Poets📚 2022 (Archive)
 
 Are you ready to explore a new language? Learn to use **basic Python** and **Python for text processing** in 4 sessions. Just like with any other language, coding helps you create something that has not been there before. And the best part is: you can use it to handle and **process textual data** for **your own research** more efficiently. 
 
